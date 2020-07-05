@@ -13,4 +13,4 @@ spring:
     hikari:
       minimum-idle: 0
 version: 
-  info: 5
+  info: 6
