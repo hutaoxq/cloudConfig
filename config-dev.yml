@@ -12,3 +12,5 @@ spring:
     validation-query: SELECT 1
     hikari:
       minimum-idle: 0
+version: 
+  info: 1
